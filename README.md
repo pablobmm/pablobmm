@@ -39,7 +39,7 @@ Aqui estão as tecnologias que venho utilizando nos meus projetos:
 **2. Screenmatch (Estudo de Java)**
 - **Descrição:** Desafio da Alura para consumir uma API de filmes (OMDb) e praticar conceitos de Programação Orientada a Objetos, Collections, Streams e Lambdas em Java.
 - **Tecnologias:** `Java`, `POO`, `Consumo de API`.
-- **Repositório:** *(Adicione o link para o seu repositório "screenmatch" aqui)*
+- **Repositório:** *[https://github.com/pablobmm/screenmatch](https://github.com/pablobmm/screenmatch)*
 
 <br>
 
