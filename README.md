@@ -72,7 +72,7 @@ Aqui estão alguns projetos que desenvolvi para praticar e demonstrar minhas hab
 ## 📬 Entre em Contato
 
 <p align="left">
-  <a href="httpsm://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/pablob-mm/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pablobarros832@gmail.com" target="_blank">
