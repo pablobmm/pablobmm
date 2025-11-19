@@ -51,7 +51,7 @@ Aqui estão alguns projetos que desenvolvi para praticar e demonstrar minhas hab
 **4. API de Gerenciamento Escolar - Backend**
 - **Descrição:** API em Python que simula o gerenciamento de uma escola, com persistência de dados em um banco SQLite e utilizando SQLAlchemy como ORM.
 - **Tecnologias:** `Python`, `Flask`, `SQLAlchemy`, `SQLite`.
-- **Repositório:** [https://github.com/pablobmm/Projeto_API-escolar](https://github.com/pablobmm/Projeto_API-escolar)
+- **Repositório:** [https://github.com/pablobmm/Projeto_API-escolar](https://github.com/pablobmm/ProjetoAPI-s)
 
 **5. Screenmatch (Estudo de Java)**
 - **Descrição:** Desafio da Alura para consumir uma API de filmes (OMDb) e praticar conceitos de Programação Orientada a Objetos, Collections, Streams e Lambdas em Java.
