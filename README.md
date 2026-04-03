@@ -54,9 +54,9 @@ Aqui estão alguns projetos que desenvolvi para praticar e demonstrar minhas hab
 - **Repositório:** [https://github.com/pablobmm/Projeto_API-escolar](https://github.com/pablobmm/ProjetoAPI-s)
 
 **5. Screenmatch (Estudo de Java)**
-- **Descrição:** Desafio da Alura para consumir uma API de filmes (OMDb) e praticar conceitos de Programação Orientada a Objetos, Collections, Streams e Lambdas em Java.
-- **Tecnologias:** `Java`, `POO`, `Consumo de API`.
-- **Repositório:** [https://github.com/pablobmm/screenmatch](https://github.com/pablobmm/screenmatch)
+- **Descrição:** catálogo de filmes que utiliza a API omdb para obter informações de filmes e séries utilizando o framework Spring do Java, JPA, Hibernate, PostgreSQL
+- **Tecnologias:** `Java`, `POO`, `Consumo de API`,`PostgreSQL`,`JPA`, `Spring boot`.
+- **Repositório:** [https://github.com/pablobmm/Screenmatch_Spring](https://github.com/pablobmm/Screenmatch_Spring)
 
 <br>
 
