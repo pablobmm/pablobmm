@@ -1,10 +1,6 @@
 # Olá, eu sou o Pablo Barros Machado 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas focado em me tornar um desenvolvedor de software de alto nível.
-
-- 🔭 Atualmente estou focado em projetos **Backend (Java/Spring, Python/Flask)** e **Frontend (Next.js/React)**.
-- 🌱 Aprendendo e me aprofundando em **Java com Spring Boot** 
-- 🎯 Buscando minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior (Backend ou Fullstack)**.
+- 🔭 focado em projetos **Backend (Java/Spring, Python/Flask)** e **Frontend (Next.js/React)**.
 - 📫 Você pode me contatar por e-mail: **pablobarros832@gmail.com**
 
 <br>
