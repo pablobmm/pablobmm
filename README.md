@@ -54,14 +54,6 @@ Aqui estão alguns projetos que desenvolvi para praticar e demonstrar minhas hab
 - **Tecnologias:** `Java`, `POO`, `Consumo de API`,`PostgreSQL`,`JPA`, `Spring Boot`.
 - **Repositório:** [https://github.com/pablobmm/Screenmatch_Spring](https://github.com/pablobmm/Screenmatch_Spring)
 
-<br>
-
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablobmm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablobmm&layout=compact&langs_count=7&theme=radical"/>
-</p>
 
 <br>
 
