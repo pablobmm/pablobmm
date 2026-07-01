@@ -30,14 +30,14 @@ Aqui estão as tecnologias que venho utilizando nos meus projetos:
 Aqui estão alguns projetos que desenvolvi para praticar e demonstrar minhas habilidades:
 
 **1. Projeto Hamburgueria (Code Burger) - Fullstack**
-- **Descrição:** Aplicação fullstack de uma hamburgueria, com backend em Python/Flask servindo uma API REST e frontend em Next.js/Tailwind CSS. O projeto é totalmente containerizado com Docker.
-- **Tecnologias:** `Next.js`, `Tailwind`, `Python`, `Flask`, `Docker`, `Docker Compose`.
-- **Repositório:** [https://github.com/pablobmm/projeto-hamburgueria-next](https://github.com/pablobmm/projeto-hamburgueria-next)
+- **Descrição:** Aplicação fullstack de uma hamburgueria, com backend em Python/Flask servindo uma API REST e frontend em JavaScript. O projeto é totalmente containerizado com Docker.
+- **Tecnologias:** `MySQL`, `JavaScript`, `Python`, `Flask`, `Docker`, `Docker Compose`.
+- **Repositório:** [https://github.com/pablobmm/projeto-hamburgueria](https://github.com/pablobmm/projeto-hamburgueria)
 
-**2. Tecboard - Frontend**
-- **Descrição:** Hub de eventos de tecnologia. Um projeto frontend construído com React e Vite para praticar a criação de interfaces modernas e componentizadas.
-- **Tecnologias:** `React`, `Vite`, `CSS`.
-- **Repositório:** [https://github.com/pablobmm/Tecboard](https://github.com/pablobmm/Tecboard)
+**2. MS Demolidora - Frontend**
+- **Descrição:** Landing page desenvolvida para a MS Demolidora, focada em apresentar serviços de construção civil com profissionalismo, performance e design responsivo.
+- **Tecnologias:** `JavaScript`, `Vite`, `CSS`.
+- **Repositório:** [https://github.com/pablobmm/MS_Demolidora](https://github.com/pablobmm/MS_Demolidora)
 
 **3. API Gerenciador de Tarefas - Backend**
 - **Descrição:** Uma API RESTful para gerenciamento de usuários (CRUD) utilizando Python, Flask e totalmente containerizada com Docker.
@@ -49,9 +49,9 @@ Aqui estão alguns projetos que desenvolvi para praticar e demonstrar minhas hab
 - **Tecnologias:** `Python`, `Flask`, `SQLAlchemy`, `SQLite`.
 - **Repositório:** [https://github.com/pablobmm/Projeto_API-escolar](https://github.com/pablobmm/ProjetoAPI-s)
 
-**5. Screenmatch (Estudo de Java)**
+**5. Screenmatch**
 - **Descrição:** catálogo de filmes que utiliza a API omdb para obter informações de filmes e séries utilizando o framework Spring do Java, JPA, Hibernate, PostgreSQL
-- **Tecnologias:** `Java`, `POO`, `Consumo de API`,`PostgreSQL`,`JPA`, `Spring boot`.
+- **Tecnologias:** `Java`, `POO`, `Consumo de API`,`PostgreSQL`,`JPA`, `Spring Boot`.
 - **Repositório:** [https://github.com/pablobmm/Screenmatch_Spring](https://github.com/pablobmm/Screenmatch_Spring)
 
 <br>
