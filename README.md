@@ -30,7 +30,7 @@ Aqui estão as tecnologias que venho utilizando nos meus projetos:
 Aqui estão alguns projetos que desenvolvi para praticar e demonstrar minhas habilidades:
 
 **1. Projeto Hamburgueria (Code Burger) - Fullstack**
-- **Descrição:** Aplicação fullstack de uma hamburgueria, com backend em Python/Flask servindo uma API REST e frontend em JavaScript. O projeto é totalmente containerizado com Docker.
+- **Descrição:** Sistema Full Stack com autenticação, carrinho de compras, painel administrativo e integração do checkout Pix via Mercado Pago (em fase de testes), utilizando MySQL e Docker.
 - **Tecnologias:** `MySQL`, `JavaScript`, `Python`, `Flask`, `Docker`, `Docker Compose`.
 - **Repositório:** [https://github.com/pablobmm/projeto-hamburgueria](https://github.com/pablobmm/projeto-hamburgueria)
 
