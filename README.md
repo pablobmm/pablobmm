@@ -1,6 +1,6 @@
 # Bem vindo ao meu Github! 👋
 
-- 🔭 focado em projetos **Backend (Java/Spring, Python/Flask)** e **Frontend (Next.js/React)**.
+- 🔭 focado em projetos **Backend (Java/Spring)** e **Frontend (Next.js/React)**.
 - 📫 Você pode me contatar por e-mail: **pablobarros832@gmail.com**
 
 <br>
